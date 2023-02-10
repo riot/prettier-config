@@ -1,0 +1,31 @@
+{
+  "name": "@riotjs/prettier-config",
+  "version": "1.0.0",
+  "description": "Riot.js prettier config file",
+  "main": ".prettierrc.js",
+  "scripts": {
+    "test": "prettier --check test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riot/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "riot",
+    "riot.js",
+    "config"
+  ],
+  "author": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riot/prettier-config/issues"
+  },
+  "homepage": "https://github.com/riot/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
