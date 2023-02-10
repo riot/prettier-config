@@ -1,6 +1,6 @@
 {
   "name": "@riotjs/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Riot.js prettier config file",
   "main": ".prettierrc.js",
   "scripts": {
