@@ -33,6 +33,6 @@ module.exports = require('@riotjs/prettier-config')
 [ci-url]:https://github.com/riot/prettier-config/actions
 [license-image]: http://img.shields.io/badge/license-MIT-000000.svg?style=flat-square
 [license-url]: LICENSE.txt
-[npm-version-image]: http://img.shields.io/npm/v/@riotjs/prettier-config-riot.svg?style=flat-square
-[npm-downloads-image]: http://img.shields.io/npm/dm/@riotjs/prettier-config-riot.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@riotjs/prettier-config-riot
+[npm-version-image]: http://img.shields.io/npm/v/@riotjs/prettier-config.svg?style=flat-square
+[npm-downloads-image]: http://img.shields.io/npm/dm/@riotjs/prettier-config.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@riotjs/prettier-config
