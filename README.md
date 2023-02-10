@@ -1,6 +1,6 @@
 # @riotjs/prettier-config
 
-[![Build Status][travis-image]][travis-url]
+[![Build Status][ci-image]][ci-url]
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
 [![MIT License][license-image]][license-url]
@@ -27,8 +27,8 @@ Set up your `.prettierrc.js` file as follows:
 module.exports = require('@riotjs/prettier-config')
 ```
 
-[travis-image]: https://img.shields.io/travis/riot/@riotjs/prettier-config.svg?style=flat-square
-[travis-url]: https://travis-ci.org/riot/@riotjs/prettier-config
+[ci-image]:https://img.shields.io/github/actions/workflow/status/riot/prettier-config/test.yml?style=flat-square
+[ci-url]:https://github.com/riot/prettier-config/actions
 [license-image]: http://img.shields.io/badge/license-MIT-000000.svg?style=flat-square
 [license-url]: LICENSE.txt
 [npm-version-image]: http://img.shields.io/npm/v/@riotjs/prettier-config-riot.svg?style=flat-square
