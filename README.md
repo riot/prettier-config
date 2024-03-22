@@ -12,7 +12,7 @@ Riot default prettier config file
 Peer dependencies installation
 
 ```shell
-npm i -D prettier@2
+npm i -D prettier
 ```
 
 Config file installation
